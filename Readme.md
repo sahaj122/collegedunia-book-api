@@ -2,7 +2,10 @@
 
 ## Follow these steps to set up and run the project locally.
 
-git clone [<repository-url>](https://github.com/sahaj122/collegedunia-book-api.git)
+You can find the project on Github
+https://github.com/sahaj122/collegedunia-book-api.git
+
+(Please clone the git repo if any the uploaded file has some issues)
 
 #### Navigate to the project directory:
 cd COLLEGEDUNIA
